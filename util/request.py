@@ -1,3 +1,4 @@
 import requests
 
-requests.get()
+def send_request():
+    requests.get()
